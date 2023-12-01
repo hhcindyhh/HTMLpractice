@@ -1,0 +1,67 @@
+/*styles.css*/
+body {
+    background-color:lightblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:auto
+
+}
+h1{
+    background-color:white;
+    color:darkcyan;
+    text-align: center;
+    font-family:cursive
+
+}
+
+h2{
+    background-color: white;
+    color:darkcyan;
+    text-align: center;
+    font-family:cursive;
+}
+h3{
+    background-color:white;
+    color:darkcyan;
+    text-align: center;
+    font-family: cursive;
+}
+h4{
+    background-color:white;
+    color:darkcyan;
+    text-align: center;
+    font-family: cursive;
+
+}
+h5{
+    background-color:white;
+    color:darkcyan;
+    text-align: center;
+    font-family: cursive;
+}
+main{ margin:auto
+
+}
+
+footer{
+    font-family:cursive;
+    font: size 20px;
+    text-align: center;
+}
+
+imag{
+    max:fit-content;
+    height:fit-content;
+    margin:auto;
+    border: 0.5cm;
+}
+a{
+    font-size: 16px;
+}
+ul{
+color: dark blue
+}
+ol{
+    color:darkblue
+
+}
+
