@@ -2,42 +2,19 @@
 body {
     background-color:lightblue;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    margin:auto
+    margin:0;
+    padding:0;
 
 }
-h1{
+h1,h2,h3,h4,h5{
     background-color:white;
-    color:darkcyan;
-    text-align: center;
-    font-family:cursive
-
-}
-
-h2{
-    background-color: white;
     color:darkcyan;
     text-align: center;
     font-family:cursive;
-}
-h3{
-    background-color:white;
-    color:darkcyan;
-    text-align: center;
-    font-family: cursive;
-}
-h4{
-    background-color:white;
-    color:darkcyan;
-    text-align: center;
-    font-family: cursive;
+    margin-bottom: 10px;
 
 }
-h5{
-    background-color:white;
-    color:darkcyan;
-    text-align: center;
-    font-family: cursive;
-}
+
 main{ margin:auto
 
 }
@@ -49,13 +26,13 @@ footer{
 }
 
 imag{
-    max:fit-content;
+    max-width:fit-content;
     height:fit-content;
     margin:auto;
     border: 0.5cm;
 }
 a{
-    font-size: 16px;
+    font-size: 18px;
 }
 ul{
 color: dark blue
